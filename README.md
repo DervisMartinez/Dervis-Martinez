@@ -2,7 +2,10 @@
 
 Men 
 Resident in the Bolivarian Republic of Venezuela 
-![download](https://user-images.githubusercontent.com/92455106/172198853-af295f63-c891-4e65-b98b-2ce90efaac7c.jpg)
+![download](https://user-images.githubusercontent.com/92455106/172199239-f8e95298-ff49-4f8b-ab5e-dcea77d90ed2.png)
+
+
+
 Junior Programmer with a lot of desire to continue Learning
 certificates
 Basic Programming (Platzi)
