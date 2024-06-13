@@ -22,5 +22,6 @@ Basic Programming (Platzi)
 and more
 
 Estudiante actualmente en la Universidad de Carabobo carrera Ciencias en Computación en la facultad de ciencias y tecnología FACYT 
+https://media.licdn.com/dms/image/C4E1BAQGKrCGMPswDUA/company-background_10000/0/1584977082626/facyt_uc_cover?e=2147483647&v=beta&t=0U5_yGkwNPbeBb2XyRs02RA3EcCuuiDuKCAoZHCeCv8
 
 
